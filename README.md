@@ -2,6 +2,8 @@ SQL Data Warehouse Analytics Project
 
 A end-to-end SQL analytics project built on a data warehouse schema, covering exploratory analysis, performance reporting, and customer/product segmentation. The project demonstrates real-world analytical patterns using T-SQL window functions, CTEs, and aggregation techniques.
 
+"This project was completed following a guided tutorial. All queries were written and understood independently"
+
 ---
 
 ## 🗃️ Database Schema
